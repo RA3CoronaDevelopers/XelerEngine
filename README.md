@@ -1,2 +1,2 @@
-# CorEngine
-Public &amp; Opensource RTS Engine for Unity made by Corona Developers.
+# XelerEngine
+Free and Opensource Game Engine made by Corona Developers.
